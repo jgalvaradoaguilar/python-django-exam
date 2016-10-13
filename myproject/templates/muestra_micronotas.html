@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+	<ol>
+	{% for diccionario in micronotas_a_mostrar %}
+
+		<li>
+		<img src={{diccionario.avatar}} alt="Avatar del micronotero" class="photo avatar" width="96" height="96"/>
+		<p class="mensaje">{{ diccionario.contenido }}</p>
+		<a href="{{ diccionario.url }}"> Ver publicaci&oacute;n original </a>
+		<br>
+		Publicado por: <a href="http://identi.ca/{{ diccionario.micronotero }}"> {{ diccionario.micronotero }}</a>
+		<br>
+		Fecha de publicaci&oacute;n: {{ diccionario.fecha_publicacion }}
+		<br>
+		{% if diccionario.seleccionada %}
+			<form action="/deseleccionar/{{ diccionario.url }}" method="post">
+				<input type="submit" value="Deseleccionar esta micronota">
+			</form>
+			Fu&eacute; seleccionada por usted: {{ diccionario.fecha_seleccion }}
+			<br>
+		{% else %}
+			<form action="/seleccionar/{{ diccionario.url }}" method="post">
+        		<input type="submit" value="Seleccionar esta micronota">
+			</form>
+		{% endif %}
+		N&uacute;mero de selecciones: {{ diccionario.veces_seleccionada }}
+		<br>
+		Puntuaci&oacute;n media: {{ diccionario.punt_media }}
+		<br>
+		N&uacute;mero de votaciones: {{ diccionario.veces_puntuada }}
+		<br>
+		{% if diccionario.puntuada %}
+			Su puntuaci&oacute;n: {{ diccionario.mi_puntuacion }}
+		{% else %}
+			<form action="/puntuar/{{ diccionario.url }}" method="get">
+        		<input type="submit" value="Puntuar esta micronota">
+			</form>
+		{% endif %}
+		<br><br><br><br>
+		</li>
+
+	{% endfor %}
+	</ol>
+
+	<a href="/update"> Actualizar </a>
+	<br><br><br><br>
+
+	{% if n_siguiente %}
+		<a href="/{{ n_siguiente }}"> Ver microresumen de las 30 siguientes micronoticias </a>
+		<br><br><br><br>
+	{% endif %}
+
+{% endblock %}

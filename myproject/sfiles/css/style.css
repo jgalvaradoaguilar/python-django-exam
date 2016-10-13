@@ -1,0 +1,165 @@
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #C0C0C0 url(/images/img01.jpg) repeat-x left top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #3C3D3F;
+}
+
+/*h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	color: #2B2522;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 2.8em;
+}
+
+h3 {
+	font-size: 1.6em;
+}*/
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 180%;
+}
+
+ul{
+	color: blue;
+}
+
+a {
+	text-decoration: underline;
+	color: #2B2522;
+}
+
+
+/* Header */
+
+#header {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 40px 0px 0px 0px;
+}
+
+
+/* Logo */
+
+#logo {
+	float: left;
+	width: 400px;
+	margin: 0;
+	padding: 0;
+}
+
+#logo p {
+	margin: 0;
+	padding: 0px 0 0 32px;
+	font: normal 16px Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	color: white;
+} 
+
+
+/* Menu */
+
+#menu {
+	float: left;
+	height: 125px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#menu a {
+	margin-right: 2px;
+	padding: 8px 25px;
+	text-decoration: none;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: white;
+	border: none;
+	background: #4B402E;
+}
+
+#menu p {
+	font-size: 40px;
+	font-style: italic;
+	color: white;
+}
+
+/* Page */
+
+#page {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 0px 0px 0px 0px;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 560px;
+	padding: 40px 30px 0px 30px;
+	background: #FFFFFF;
+}
+
+#content p.mensaje {
+	font-size: 20px;
+	color: blue;
+}
+
+#content p.conf {
+	font-size: 20px;
+	color: black;
+}
+
+#content p.error {
+	font-size: 30px;
+	color: red;
+}
+
+#content textarea.skin {
+	color:blue;
+}
+
+
+
+/* Footer */
+
+#footer {
+	width: 980px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 0px 0 15px 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer p.copyright {
+	margin: 0;
+	line-height: normal;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: left;
+	color: black;
+}
+
+#footer a {
+	color: blue;
+}

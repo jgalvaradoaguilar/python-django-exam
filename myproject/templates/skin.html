@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+	{% if css_cambiado %}
+		<form action="/" method="get">
+			<p class="mensaje"> Se ha cambiado la configuraci&oacute;n del estilo.</p>
+			<br>
+			<input type="submit" value="Ir a la p&aacute;gina principal">
+		</form>
+	{% else %}
+		<form action="/skin" method="post">
+			<textarea class="skin" name="nuevo_css" rows="30" cols="75">{{ texto_css }}</textarea> 
+			<br>
+        	<input type="submit" value="Save" />
+		</form>
+	{% endif %}
+	<br>
+
+{% endblock %}
+
+

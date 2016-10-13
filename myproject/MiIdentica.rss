@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:ctag="http://commontag.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:statusnet="http://status.net/ont/" xmlns="http://purl.org/rss/1.0/">
+ <sioc:Site rdf:about="http://identi.ca/">
+  <sioc:name>Identi.ca</sioc:name>
+  <sioc:space_of>
+   <sioc:Container rdf:about="http://identi.ca/rss"></sioc:Container>
+  </sioc:space_of>
+ </sioc:Site>
+ <channel rdf:about="http://identi.ca/rss">
+  <title>Identi.ca public timeline</title>
+  <link>http://identi.ca/</link>
+  <description>Identi.ca updates from everyone.</description>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <items>
+   <rdf:Seq>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968057"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968042"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968041"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968037"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968053"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968027"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968029"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968017"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968016"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968015"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968020"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968008"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968006"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968004"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968003"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968014"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86968007"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967996"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967992"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967985"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967987"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967974"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967976"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967959"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967948"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967924"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967920"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967910"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967906"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967898"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967897"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967904"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967881"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967843"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967837"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967835"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967839"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967829"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/bookmark/42afd20d-8c66-4d39-add1-af5aea017d84"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967824"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967818"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967817"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967814"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967813"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967804"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967798"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967797"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/86967789"></rdf:li>
+   </rdf:Seq>
+  </items>
+ </channel>
+ <item rdf:about="http://identi.ca/notice/86968057" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>shauntait29: http://on.fb.me/ut9fht http://on.fb.me/tPQEiz http://on.fb.me/rYVP7r http://on.fb.me/uFjeTj http://on.fb.me/w4dVx4 #linux</title>
+  <link>http://identi.ca/notice/86968057</link>
+  <description>shauntait29's status on Thursday, 15-Dec-11 16:00:34 UTC</description>
+  <content:encoded>&lt;a href=&quot;http://on.fb.me/ut9fht&quot; title=&quot;http://on.fb.me/ut9fht&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/ut9fht&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/tPQEiz&quot; title=&quot;http://on.fb.me/tPQEiz&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/tPQEiz&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/rYVP7r&quot; title=&quot;http://on.fb.me/rYVP7r&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/rYVP7r&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/uFjeTj&quot; title=&quot;http://on.fb.me/uFjeTj&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/uFjeTj&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/w4dVx4&quot; title=&quot;http://on.fb.me/w4dVx4&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/w4dVx4&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/linux&quot; rel=&quot;tag&quot;&gt;linux&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T16:00:34+00:00</dc:date>
+  <dc:creator>shauntait29</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/567992"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/567992#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f93007771c9efb0b12f4e43ab1adef75&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850316"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://on.fb.me/ut9fht"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/uFjeTj"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/tPQEiz"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/rYVP7r"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/w4dVx4"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/linux#concept" ctag:label="linux">
+    <foaf:page rdf:resource="http://identi.ca/tag/linux"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/linux/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968042" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>ingeborgmaier: Wettervorhersage immer aktuell http://ur1.ca/56ncg #wetter #morgen</title>
+  <link>http://identi.ca/notice/86968042</link>
+  <description>ingeborgmaier's status on Thursday, 15-Dec-11 16:00:30 UTC</description>
+  <content:encoded>Wettervorhersage immer aktuell &lt;a href=&quot;http://ur1.ca/56ncg&quot; title=&quot;http://www.wetterleitstelle.de/14tage-wetter.php&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/56ncg&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/wetter&quot; rel=&quot;tag&quot;&gt;wetter&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/morgen&quot; rel=&quot;tag&quot;&gt;morgen&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T16:00:30+00:00</dc:date>
+  <dc:creator>Ingeborg Maier</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/449079"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/449079#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/449079-96-20110531160802.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850302"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://www.wetterleitstelle.de/14tage-wetter.php"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/morgen#concept" ctag:label="morgen">
+    <foaf:page rdf:resource="http://identi.ca/tag/morgen"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/morgen/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/wetter#concept" ctag:label="wetter">
+    <foaf:page rdf:resource="http://identi.ca/tag/wetter"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/wetter/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968041" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>takeshitakenji: I am now the last of 732 people who have #1Q84 on hold in the local library system.</title>
+  <link>http://identi.ca/notice/86968041</link>
+  <description>takeshitakenji's status on Thursday, 15-Dec-11 16:00:30 UTC</description>
+  <content:encoded>I am now the last of 732 people who have #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/1q84&quot; rel=&quot;tag&quot;&gt;1Q84&lt;/a&gt;&lt;/span&gt; on hold in the local library system.</content:encoded>
+  <dc:date>2011-12-15T16:00:30+00:00</dc:date>
+  <dc:creator>Neil Hodges</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/496572"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/496572#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="47.60621" geo:long="-122.33207" rdf:resource="http://sws.geonames.org/5809844/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/496572-96-20110729190411.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850301"></sioc:has_discussion>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/1q84#concept" ctag:label="1q84">
+    <foaf:page rdf:resource="http://identi.ca/tag/1q84"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/1q84/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968037" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>curtmaly: What Time Is the Elevation Group webinar?  Find out here: http://ur1.ca/6pke2</title>
+  <link>http://identi.ca/notice/86968037</link>
+  <description>curtmaly's status on Thursday, 15-Dec-11 16:00:27 UTC</description>
+  <content:encoded>What Time Is the Elevation Group webinar?  Find out here: &lt;a href=&quot;http://ur1.ca/6pke2&quot; title=&quot;http://blackboxsocialmedia.com/what-time-is-the-elevation-group-webinar/&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/6pke2&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T16:00:27+00:00</dc:date>
+  <dc:creator>Curt Maly</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/91445"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/91445#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/91445-96-20091030143704.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850297"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://blackboxsocialmedia.com/what-time-is-the-elevation-group-webinar/"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968053" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>review3dhdtv: http://bit.ly/vzf7LE Samsung UN55D7900 Review</title>
+  <link>http://identi.ca/notice/86968053</link>
+  <description>review3dhdtv's status on Thursday, 15-Dec-11 16:00:25 UTC</description>
+  <content:encoded>&lt;a href=&quot;http://bit.ly/vzf7LE&quot; title=&quot;http://bit.ly/vzf7LE&quot; rel=&quot;nofollow external&quot;&gt;http://bit.ly/vzf7LE&lt;/a&gt; Samsung UN55D7900 Review</content:encoded>
+  <dc:date>2011-12-15T16:00:25+00:00</dc:date>
+  <dc:creator>Simon Miller</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/584731"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/584731#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="46.81228" geo:long="-71.21454" rdf:resource="http://sws.geonames.org/6325494/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=81f7a8e08ff12b6519b1787c13468031&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850312"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://bit.ly/vzf7LE"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968027" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>lamejokes: Missing dog and wife. Reward for dog.</title>
+  <link>http://identi.ca/notice/86968027</link>
+  <description>lamejokes's status on Thursday, 15-Dec-11 16:00:15 UTC</description>
+  <content:encoded>Missing dog and wife. Reward for dog.</content:encoded>
+  <dc:date>2011-12-15T16:00:15+00:00</dc:date>
+  <dc:creator>Lame Jokes</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/35156"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/35156#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=9c30fd7526ff5786a90ed81fb430b247&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850287"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968029" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>takumasakazaki47: http://on.fb.me/tdnGCO http://on.fb.me/sKmPxm http://on.fb.me/sG47eK http://on.fb.me/rABTrw http://on.fb.me/tJVEKV #games</title>
+  <link>http://identi.ca/notice/86968029</link>
+  <description>takumasakazaki47's status on Thursday, 15-Dec-11 16:00:11 UTC</description>
+  <content:encoded>&lt;a href=&quot;http://on.fb.me/tdnGCO&quot; title=&quot;http://on.fb.me/tdnGCO&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/tdnGCO&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/sKmPxm&quot; title=&quot;http://on.fb.me/sKmPxm&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/sKmPxm&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/sG47eK&quot; title=&quot;http://on.fb.me/sG47eK&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/sG47eK&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/rABTrw&quot; title=&quot;http://on.fb.me/rABTrw&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/rABTrw&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/tJVEKV&quot; title=&quot;http://on.fb.me/tJVEKV&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/tJVEKV&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/games&quot; rel=&quot;tag&quot;&gt;games&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T16:00:11+00:00</dc:date>
+  <dc:creator>takumasakazaki47</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/567989"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/567989#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f5cd98651f477f34fc8f25e0397b0b22&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850289"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://on.fb.me/sKmPxm"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/rABTrw"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/tdnGCO"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/sG47eK"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/tJVEKV"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/games#concept" ctag:label="games">
+    <foaf:page rdf:resource="http://identi.ca/tag/games"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/games/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968017" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>randomcolour: very dark strong red</title>
+  <link>http://identi.ca/notice/86968017</link>
+  <description>randomcolour's status on Thursday, 15-Dec-11 16:00:07 UTC</description>
+  <content:encoded>very dark strong red</content:encoded>
+  <dc:date>2011-12-15T16:00:07+00:00</dc:date>
+  <dc:creator>Random Colour</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/59333"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/59333#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/59333-96-20091224105255.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850277"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968016" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>cybernetic: Many glazed pale mauve outlined ships on a glazed pale grey ground.</title>
+  <link>http://identi.ca/notice/86968016</link>
+  <description>cybernetic's status on Thursday, 15-Dec-11 16:00:07 UTC</description>
+  <content:encoded>Many glazed pale mauve outlined ships on a glazed pale grey ground.</content:encoded>
+  <dc:date>2011-12-15T16:00:07+00:00</dc:date>
+  <dc:creator>The Cybernetic Artwork Nobody Wrote</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/52442"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/52442#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/52442-96-20091216231045.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850276"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968015" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>kanalratte: Jetzt im Radio: &quot;Sound ohne Ende&quot;</title>
+  <link>http://identi.ca/notice/86968015</link>
+  <description>kanalratte's status on Thursday, 15-Dec-11 16:00:05 UTC</description>
+  <content:encoded>Jetzt im Radio: &amp;quot;Sound ohne Ende&amp;quot;</content:encoded>
+  <dc:date>2011-12-15T16:00:05+00:00</dc:date>
+  <dc:creator>Kanal Ratte 104,5 MHz</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/279927"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/279927#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/279927-96-20101012111547.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850275"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968020" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>ejdecena: [Video]Adele - Rolling In The Deep &gt; http://is.gd/eFrtKL</title>
+  <link>http://identi.ca/notice/86968020</link>
+  <description>ejdecena's status on Thursday, 15-Dec-11 16:00:03 UTC</description>
+  <content:encoded>[Video]Adele - Rolling In The Deep &amp;gt; &lt;a href=&quot;http://is.gd/eFrtKL&quot; title=&quot;http://is.gd/eFrtKL&quot; rel=&quot;nofollow external&quot;&gt;http://is.gd/eFrtKL&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T16:00:03+00:00</dc:date>
+  <dc:creator>Edgard Decena</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/263752"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/263752#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="8" geo:long="-66" rdf:resource="http://sws.geonames.org/3625428/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/263752-96-20100923230707.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850280"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://is.gd/eFrtKL"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968008" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>shauntait29: http://on.fb.me/uEw125 http://on.fb.me/uqZtZq http://on.fb.me/tkUQn0 http://on.fb.me/vPOzTw http://on.fb.me/tozvoL #accessibility</title>
+  <link>http://identi.ca/notice/86968008</link>
+  <description>shauntait29's status on Thursday, 15-Dec-11 15:59:57 UTC</description>
+  <content:encoded>&lt;a href=&quot;http://on.fb.me/uEw125&quot; title=&quot;http://on.fb.me/uEw125&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/uEw125&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/uqZtZq&quot; title=&quot;http://on.fb.me/uqZtZq&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/uqZtZq&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/tkUQn0&quot; title=&quot;http://on.fb.me/tkUQn0&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/tkUQn0&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/vPOzTw&quot; title=&quot;http://on.fb.me/vPOzTw&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/vPOzTw&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/tozvoL&quot; title=&quot;http://on.fb.me/tozvoL&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/tozvoL&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/accessibility&quot; rel=&quot;tag&quot;&gt;accessibility&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:59:57+00:00</dc:date>
+  <dc:creator>shauntait29</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/567992"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/567992#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f93007771c9efb0b12f4e43ab1adef75&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850268"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://on.fb.me/vPOzTw"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/uEw125"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/uqZtZq"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/tkUQn0"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/tozvoL"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/accessibility#concept" ctag:label="accessibility">
+    <foaf:page rdf:resource="http://identi.ca/tag/accessibility"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/accessibility/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968006" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>themadman: Has no idea when the last lectures are for his modules &gt;.&lt;'</title>
+  <link>http://identi.ca/notice/86968006</link>
+  <description>themadman's status on Thursday, 15-Dec-11 15:59:57 UTC</description>
+  <content:encoded>Has no idea when the last lectures are for his modules &amp;gt;.&amp;lt;'</content:encoded>
+  <dc:date>2011-12-15T15:59:57+00:00</dc:date>
+  <dc:creator>Marcus Harrison</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/64803"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/64803#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="52.41548" geo:long="-4.08292" rdf:resource="http://sws.geonames.org/2657782/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/64803-96-20111113143647.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850266"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968004" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>roninmcr: ♺ @ludost: Buddhism update: Be here now. Be someplace else later. Is that so complicated?#q (via @klang67)</title>
+  <link>http://identi.ca/notice/86968004</link>
+  <description>roninmcr's status on Thursday, 15-Dec-11 15:59:57 UTC</description>
+  <content:encoded>♺ @&lt;span class=&quot;vcard&quot;&gt;&lt;a href=&quot;http://identi.ca/user/82023&quot; class=&quot;url&quot; title=&quot;Christina Haralanova&quot;&gt;&lt;span class=&quot;fn nickname mention&quot;&gt;ludost&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;: Buddhism update: Be here now. Be someplace else later. Is that so complicated?#q (via @klang67)</content:encoded>
+  <dc:date>2011-12-15T15:59:57+00:00</dc:date>
+  <dc:creator>Jose Vicente Fernandez Ferrer</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/66899"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/66899#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/66899-96-20110511191125.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850264"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968003" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>usb333: Oh, the irony! This video was made by the national &quot;cultural&quot; TV channel: https://www.silentyoutube.com/watch?v=DPlitVF3SsQ</title>
+  <link>http://identi.ca/notice/86968003</link>
+  <description>usb333's status on Thursday, 15-Dec-11 15:59:56 UTC</description>
+  <content:encoded>Oh, the irony! This video was made by the national &amp;quot;cultural&amp;quot; TV channel: &lt;a href=&quot;https://www.silentyoutube.com/watch?v=DPlitVF3SsQ&quot; title=&quot;https://www.silentyoutube.com/watch?v=DPlitVF3SsQ&quot; rel=&quot;nofollow external&quot;&gt;https://www.silentyoutube.com/watch?v=DPlitVF3SsQ&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:59:56+00:00</dc:date>
+  <dc:creator>usb333</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/351873"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/351873#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/351873-96-20110816154329.gif"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850263"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="https://www.silentyoutube.com/watch?v=DPlitVF3SsQ"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968014" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>ananonyma: Wohoo! Season Finale #PioneerOne &quot;War of the World&quot; is out! http://is.gd/X8eMNX \o/</title>
+  <link>http://identi.ca/notice/86968014</link>
+  <description>ananonyma's status on Thursday, 15-Dec-11 15:59:55 UTC</description>
+  <content:encoded>Wohoo! Season Finale #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/pioneerone&quot; rel=&quot;tag&quot;&gt;PioneerOne&lt;/a&gt;&lt;/span&gt; &amp;quot;War of the World&amp;quot; is out! &lt;a href=&quot;http://is.gd/X8eMNX&quot; title=&quot;http://is.gd/X8eMNX&quot; rel=&quot;nofollow external&quot;&gt;http://is.gd/X8eMNX&lt;/a&gt; \o/</content:encoded>
+  <dc:date>2011-12-15T15:59:55+00:00</dc:date>
+  <dc:creator>Anonyma</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/485072"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/485072#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/485072-96-20111212172546.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850274"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://is.gd/X8eMNX"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/pioneerone#concept" ctag:label="pioneerone">
+    <foaf:page rdf:resource="http://identi.ca/tag/pioneerone"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/pioneerone/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86968007" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>pielectricsuperiorservices: http://bit.ly/tf8m8H 3 Tips to Find Professional Help to Manage Your LED Lights West Palm Beach</title>
+  <link>http://identi.ca/notice/86968007</link>
+  <description>pielectricsuperiorservices's status on Thursday, 15-Dec-11 15:59:51 UTC</description>
+  <content:encoded>&lt;a href=&quot;http://bit.ly/tf8m8H&quot; title=&quot;http://bit.ly/tf8m8H&quot; rel=&quot;nofollow external&quot;&gt;http://bit.ly/tf8m8H&lt;/a&gt; 3 Tips to Find Professional Help to Manage Your LED Lights West Palm Beach</content:encoded>
+  <dc:date>2011-12-15T15:59:51+00:00</dc:date>
+  <dc:creator>Dina Smith</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/390858"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/390858#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="59.367" geo:long="-63.64815" rdf:resource="http://sws.geonames.org/5881767/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=d2c0d7fe4010bed0017a12a3e06279ae&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850267"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://bit.ly/tf8m8H"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967996" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>acampadas: RT @ acampadasol: RT @AcampadaAdH: Exige el fin de las redadas racistas http://ur1.ca/6pr23 #NoControles #Mani18D #HumanRigh http://ur1. ...</title>
+  <link>http://identi.ca/notice/86967996</link>
+  <description>acampadas's status on Thursday, 15-Dec-11 15:59:48 UTC</description>
+  <content:encoded>RT @ acampadasol: RT @AcampadaAdH: Exige el fin de las redadas racistas &lt;a href=&quot;http://ur1.ca/6pr23&quot; title=&quot;http://t.co/unRjZszO&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/6pr23&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/nocontroles&quot; rel=&quot;tag&quot;&gt;NoControles&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/mani18d&quot; rel=&quot;tag&quot;&gt;Mani18D&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/humanrigh&quot; rel=&quot;tag&quot;&gt;HumanRigh&lt;/a&gt;&lt;/span&gt; &lt;a href=&quot;http://ur1/&quot; title=&quot;http://ur1/&quot; rel=&quot;nofollow external&quot;&gt;http://ur1&lt;/a&gt;. ...</content:encoded>
+  <dc:date>2011-12-15T15:59:48+00:00</dc:date>
+  <dc:creator>Acampadas</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/532084"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/532084#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=d4cf22c2914328a55fb9f021618d1bcb&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850256"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://ur1/"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://t.co/unRjZszO"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/humanrigh#concept" ctag:label="humanrigh">
+    <foaf:page rdf:resource="http://identi.ca/tag/humanrigh"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/humanrigh/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/mani18d#concept" ctag:label="mani18d">
+    <foaf:page rdf:resource="http://identi.ca/tag/mani18d"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/mani18d/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/nocontroles#concept" ctag:label="nocontroles">
+    <foaf:page rdf:resource="http://identi.ca/tag/nocontroles"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/nocontroles/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967992" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>dgaspary: Querem convencer a não comer carne mostrando uma mulher pelada no prato, sério? Sem noção! http://ur1.ca/6pr22</title>
+  <link>http://identi.ca/notice/86967992</link>
+  <description>dgaspary's status on Thursday, 15-Dec-11 15:59:44 UTC</description>
+  <content:encoded>Querem convencer a não comer carne mostrando uma mulher pelada no prato, sério? Sem noção! &lt;a href=&quot;http://ur1.ca/6pr22&quot; title=&quot;http://noticias.terra.com.br/mundo/noticias/0,,OI5520073-EI8142,00-Prato%20de%20carne%20humana%20denuncia%20crueldade%20contra%20animais.html#tphotos&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/6pr22&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:59:44+00:00</dc:date>
+  <dc:creator>Daniel Gaspary</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/73486"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/73486#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/73486-96-20090902234641.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850252"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://noticias.terra.com.br/mundo/noticias/0,,OI5520073-EI8142,00-Prato%20de%20carne%20humana%20denuncia%20crueldade%20contra%20animais.html#tphotos"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967985" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>cwebber: &quot;its eponymous suite of copyleft licenses&quot; most of them being non-copyleft ;)</title>
+  <link>http://identi.ca/notice/86967985</link>
+  <description>cwebber's status on Thursday, 15-Dec-11 15:59:38 UTC</description>
+  <content:encoded>&amp;quot;its eponymous suite of copyleft licenses&amp;quot; most of them being non-copyleft ;)</content:encoded>
+  <dc:date>2011-12-15T15:59:38+00:00</dc:date>
+  <dc:creator>Christopher Allan Webber</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/35127"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/35127#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="41.85003" geo:long="-87.65005" rdf:resource="http://sws.geonames.org/4887398/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/35127-96-20100402032016.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:reply_of rdf:resource="http://identi.ca/notice/86967782"></sioc:reply_of>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850046"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967987" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>takumasakazaki47: http://on.fb.me/tkR15Z http://on.fb.me/vbH0Re http://on.fb.me/tHIx2o http://on.fb.me/ugDQMN http://on.fb.me/u7xrRu #kickstarter</title>
+  <link>http://identi.ca/notice/86967987</link>
+  <description>takumasakazaki47's status on Thursday, 15-Dec-11 15:59:37 UTC</description>
+  <content:encoded>&lt;a href=&quot;http://on.fb.me/tkR15Z&quot; title=&quot;http://on.fb.me/tkR15Z&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/tkR15Z&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/vbH0Re&quot; title=&quot;http://on.fb.me/vbH0Re&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/vbH0Re&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/tHIx2o&quot; title=&quot;http://on.fb.me/tHIx2o&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/tHIx2o&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/ugDQMN&quot; title=&quot;http://on.fb.me/ugDQMN&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/ugDQMN&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/u7xrRu&quot; title=&quot;http://on.fb.me/u7xrRu&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/u7xrRu&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/kickstarter&quot; rel=&quot;tag&quot;&gt;kickstarter&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:59:37+00:00</dc:date>
+  <dc:creator>takumasakazaki47</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/567989"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/567989#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f5cd98651f477f34fc8f25e0397b0b22&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850247"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://on.fb.me/u7xrRu"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/ugDQMN"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/vbH0Re"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/tkR15Z"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/tHIx2o"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/kickstarter#concept" ctag:label="kickstarter">
+    <foaf:page rdf:resource="http://identi.ca/tag/kickstarter"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/kickstarter/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967974" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>reinouts: What's the simplest possible way to wrap a JAX-WS service in a REST API? !java</title>
+  <link>http://identi.ca/notice/86967974</link>
+  <description>reinouts's status on Thursday, 15-Dec-11 15:59:19 UTC</description>
+  <content:encoded>What's the simplest possible way to wrap a JAX-WS service in a REST API? !&lt;span class=&quot;vcard&quot;&gt;&lt;a href=&quot;http://identi.ca/group/239/id&quot; class=&quot;url&quot; title=&quot;Java (java)&quot;&gt;&lt;span class=&quot;fn nickname group&quot;&gt;java&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:59:19+00:00</dc:date>
+  <dc:creator>Reinout van Schouwen</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/8815"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/8815#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/8815-96-20091211211639.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850235"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967976" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>plungerman: #ows #occupymilwaukee RT @TedRall: RTTV Interview: Media Hypocrisy on Demonstrations in Russia and US http://goo.gl/fb/45pb1</title>
+  <link>http://identi.ca/notice/86967976</link>
+  <description>plungerman's status on Thursday, 15-Dec-11 15:59:16 UTC</description>
+  <content:encoded>#&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/ows&quot; rel=&quot;tag&quot;&gt;ows&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/occupymilwaukee&quot; rel=&quot;tag&quot;&gt;occupymilwaukee&lt;/a&gt;&lt;/span&gt; RT @TedRall: RTTV Interview: Media Hypocrisy on Demonstrations in Russia and US &lt;a href=&quot;http://goo.gl/fb/45pb1&quot; title=&quot;http://goo.gl/fb/45pb1&quot; rel=&quot;nofollow external&quot;&gt;http://goo.gl/fb/45pb1&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:59:16+00:00</dc:date>
+  <dc:creator>Bender Rodríguez</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/59135"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/59135#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="41.38808" geo:long="2.18903" rdf:resource="http://sws.geonames.org/6269421/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/59135-96-20101103124752.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850237"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://goo.gl/fb/45pb1"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/occupymilwaukee#concept" ctag:label="occupymilwaukee">
+    <foaf:page rdf:resource="http://identi.ca/tag/occupymilwaukee"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/occupymilwaukee/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/ows#concept" ctag:label="ows">
+    <foaf:page rdf:resource="http://identi.ca/tag/ows"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/ows/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967959" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>psy: some info about the &quot;Chambers Bank&quot;: http://is.gd/HWEcTF #anonymous #oprobinhood .... ouch! ;-)</title>
+  <link>http://identi.ca/notice/86967959</link>
+  <description>psy's status on Thursday, 15-Dec-11 15:58:58 UTC</description>
+  <content:encoded>some info about the &amp;quot;Chambers Bank&amp;quot;: &lt;a href=&quot;http://is.gd/HWEcTF&quot; title=&quot;http://is.gd/HWEcTF&quot; rel=&quot;nofollow external&quot;&gt;http://is.gd/HWEcTF&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/anonymous&quot; rel=&quot;tag&quot;&gt;anonymous&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/oprobinhood&quot; rel=&quot;tag&quot;&gt;oprobinhood&lt;/a&gt;&lt;/span&gt; .... ouch! ;-)</content:encoded>
+  <dc:date>2011-12-15T15:58:58+00:00</dc:date>
+  <dc:creator>lord epsylon</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/90915"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/90915#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/90915-96-20091028143845.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850220"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://is.gd/HWEcTF"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/anonymous#concept" ctag:label="anonymous">
+    <foaf:page rdf:resource="http://identi.ca/tag/anonymous"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/anonymous/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/oprobinhood#concept" ctag:label="oprobinhood">
+    <foaf:page rdf:resource="http://identi.ca/tag/oprobinhood"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/oprobinhood/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967948" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>i7dtube: مسلسل عشق وجزاء الحلقة 100 يوتيوب مسلسل عشق وجزاء الحلقة 100 يوتيوب http://identi.ca/url/62482575</title>
+  <link>http://identi.ca/notice/86967948</link>
+  <description>i7dtube's status on Thursday, 15-Dec-11 15:58:48 UTC</description>
+  <content:encoded>&lt;span class=&quot;rtl&quot;&gt;مسلسل عشق وجزاء الحلقة 100 يوتيوب مسلسل عشق وجزاء الحلقة 100 يوتيوب &lt;a href=&quot;http://identi.ca/url/62482575&quot; title=&quot;http://www.i7d.net/main/watch636&quot; rel=&quot;nofollow external&quot;&gt;http://identi.ca/url/62482575&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:58:48+00:00</dc:date>
+  <dc:creator>fares hussein</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/584238"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/584238#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="15.35472" geo:long="44.20667" rdf:resource="http://sws.geonames.org/71137/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f319d78e82c86403acbd4f94cbfa560a&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850209"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://www.i7d.net/main/watch636"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967924" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>gabrielsaldana: baby seal enters house and naps on couch http://ur1.ca/6pr0l</title>
+  <link>http://identi.ca/notice/86967924</link>
+  <description>gabrielsaldana's status on Thursday, 15-Dec-11 15:58:24 UTC</description>
+  <content:encoded>baby seal enters house and naps on couch &lt;a href=&quot;http://ur1.ca/6pr0l&quot; title=&quot;http://ur1.ca/6pr0l&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/6pr0l&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:58:24+00:00</dc:date>
+  <dc:creator>Gabriel Saldana</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/12816"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/12816#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/12816-96-20090124024009.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850185"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://ur1.ca/6pr0l"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967920" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>joseserralde: RT @creativecommons .@arstechnica covers the launch of the public discussion for #CC license suite Version 4.0: http://bit.ly/safB01</title>
+  <link>http://identi.ca/notice/86967920</link>
+  <description>joseserralde's status on Thursday, 15-Dec-11 15:58:17 UTC</description>
+  <content:encoded>RT @&lt;span class=&quot;vcard&quot;&gt;&lt;a href=&quot;http://identi.ca/user/13586&quot; class=&quot;url&quot; title=&quot;Creative Commons&quot;&gt;&lt;span class=&quot;fn nickname mention&quot;&gt;creativecommons&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; .@arstechnica covers the launch of the public discussion for #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/cc&quot; rel=&quot;tag&quot;&gt;CC&lt;/a&gt;&lt;/span&gt; license suite Version 4.0: &lt;a href=&quot;http://bit.ly/safB01&quot; title=&quot;http://bit.ly/safB01&quot; rel=&quot;nofollow external&quot;&gt;http://bit.ly/safB01&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:58:17+00:00</dc:date>
+  <dc:creator>Jose Serralde</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/201392"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/201392#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/201392-96-20110424104458.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850181"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://bit.ly/safB01"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/cc#concept" ctag:label="cc">
+    <foaf:page rdf:resource="http://identi.ca/tag/cc"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/cc/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967910" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>debiansick: Sonic CD para !Android ya es una realidad! http://goo.gl/eUWGN</title>
+  <link>http://identi.ca/notice/86967910</link>
+  <description>debiansick's status on Thursday, 15-Dec-11 15:58:01 UTC</description>
+  <content:encoded>Sonic CD para !&lt;span class=&quot;vcard&quot;&gt;&lt;a href=&quot;http://identi.ca/group/368/id&quot; class=&quot;url&quot; title=&quot;Android OS (android)&quot;&gt;&lt;span class=&quot;fn nickname group&quot;&gt;Android&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; ya es una realidad! &lt;a href=&quot;http://goo.gl/eUWGN&quot; title=&quot;http://goo.gl/eUWGN&quot; rel=&quot;nofollow external&quot;&gt;http://goo.gl/eUWGN&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:58:01+00:00</dc:date>
+  <dc:creator>Franklin G. Mendoza</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/130869"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/130869#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="8" geo:long="-66" rdf:resource="http://sws.geonames.org/3625428/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/130869-96-20110830200402.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850171"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://goo.gl/eUWGN"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967906" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>dclauzel: Chirac reste au Conseil Const. malgré sa condamnation pour détournement de fonds public, abus de confiance et prise illégale d'intérêt #WTF</title>
+  <link>http://identi.ca/notice/86967906</link>
+  <description>dclauzel's status on Thursday, 15-Dec-11 15:58:00 UTC</description>
+  <content:encoded>Chirac reste au Conseil Const. malgré sa condamnation pour détournement de fonds public, abus de confiance et prise illégale d'intérêt #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/wtf&quot; rel=&quot;tag&quot;&gt;WTF&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:58:00+00:00</dc:date>
+  <dc:creator>Damien Clauzel</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/9669"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/9669#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="45.76667" geo:long="4.88333" rdf:resource="http://sws.geonames.org/2968254/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/9669-96-20110109234602.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850167"></sioc:has_discussion>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/wtf#concept" ctag:label="wtf">
+    <foaf:page rdf:resource="http://identi.ca/tag/wtf"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/wtf/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967898" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>sasy360: اپل و مایکروسافت فقط چنتا اسم هستن. باید با برنامه‌های تجاری که آزادی‌هامون رو می‌خوان بگیرن مبارزه کرد.</title>
+  <link>http://identi.ca/notice/86967898</link>
+  <description>sasy360's status on Thursday, 15-Dec-11 15:57:51 UTC</description>
+  <content:encoded>&lt;span class=&quot;rtl&quot;&gt;اپل و مایکروسافت فقط چنتا اسم هستن. باید با برنامه‌های تجاری که آزادی‌هامون رو می‌خوان بگیرن مبارزه کرد.&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:57:51+00:00</dc:date>
+  <dc:creator>Sasan</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/71814"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/71814#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/71814-96-20111115203809.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850159"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967897" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>hannahkaiser: Nahrungsergänzung von Dr. Peter Hartig http://ur1.ca/55y07</title>
+  <link>http://identi.ca/notice/86967897</link>
+  <description>hannahkaiser's status on Thursday, 15-Dec-11 15:57:48 UTC</description>
+  <content:encoded>Nahrungsergänzung von Dr. Peter Hartig &lt;a href=&quot;http://ur1.ca/55y07&quot; title=&quot;http://www.marktplatz-gesundheit.at/&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/55y07&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:57:48+00:00</dc:date>
+  <dc:creator>Hannah Kaiser</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/478703"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/478703#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/478703-96-20110702164116.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850158"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://www.marktplatz-gesundheit.at/"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967904" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>agustinfontaine: muy buena entrevista a Pablo Sigismondi en @RadioMariaArg #africa #geopolitica lean nota en @lavozcomar http://ur1.ca/6pqyz</title>
+  <link>http://identi.ca/notice/86967904</link>
+  <description>agustinfontaine's status on Thursday, 15-Dec-11 15:57:41 UTC</description>
+  <content:encoded>muy buena entrevista a Pablo Sigismondi en @RadioMariaArg #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/africa&quot; rel=&quot;tag&quot;&gt;africa&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/geopolitica&quot; rel=&quot;tag&quot;&gt;geopolitica&lt;/a&gt;&lt;/span&gt; lean nota en @lavozcomar &lt;a href=&quot;http://ur1.ca/6pqyz&quot; title=&quot;http://ur1.ca/6pqyz&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/6pqyz&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:57:41+00:00</dc:date>
+  <dc:creator>Agustin Fontaine</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/98507"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/98507#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/98507-96-20091126163340.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850165"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://ur1.ca/6pqyz"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/africa#concept" ctag:label="africa">
+    <foaf:page rdf:resource="http://identi.ca/tag/africa"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/africa/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/geopolitica#concept" ctag:label="geopolitica">
+    <foaf:page rdf:resource="http://identi.ca/tag/geopolitica"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/geopolitica/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967881" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>hellocatfood: So, who wants to spend new years eve  (+ three more days) with me on a narrowboat in Stratford? Will only cost you £160ish</title>
+  <link>http://identi.ca/notice/86967881</link>
+  <description>hellocatfood's status on Thursday, 15-Dec-11 15:57:16 UTC</description>
+  <content:encoded>So, who wants to spend new years eve  (+ three more days) with me on a narrowboat in Stratford? Will only cost you £160ish</content:encoded>
+  <dc:date>2011-12-15T15:57:16+00:00</dc:date>
+  <dc:creator>Antonio Roberts</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/45795"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/45795#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/45795-96-20101118004208.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850142"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967843" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>stefon: Blogupdate: Ratingagenturen: Verschärfen sie die Krise? http://ur1.ca/6pqyt #krise #ratingagenturen</title>
+  <link>http://identi.ca/notice/86967843</link>
+  <description>stefon's status on Thursday, 15-Dec-11 15:56:44 UTC</description>
+  <content:encoded>Blogupdate: Ratingagenturen: Verschärfen sie die Krise? &lt;a href=&quot;http://ur1.ca/6pqyt&quot; title=&quot;https://wutimbauch.wordpress.com/2011/12/15/ratingagenturen-verscharfen-sie-die-krise/&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/6pqyt&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/krise&quot; rel=&quot;tag&quot;&gt;krise&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/ratingagenturen&quot; rel=&quot;tag&quot;&gt;ratingagenturen&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:56:44+00:00</dc:date>
+  <dc:creator> </dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/8838"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/8838#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/8838-96-20080704085811.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850104"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="https://wutimbauch.wordpress.com/2011/12/15/ratingagenturen-verscharfen-sie-die-krise/"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/krise#concept" ctag:label="krise">
+    <foaf:page rdf:resource="http://identi.ca/tag/krise"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/krise/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/ratingagenturen#concept" ctag:label="ratingagenturen">
+    <foaf:page rdf:resource="http://identi.ca/tag/ratingagenturen"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/ratingagenturen/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967837" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>vk7hse: Anyone got any suggestions for getting to sleep?  Cause this little black duck is going to be a grumpy bastard later today!</title>
+  <link>http://identi.ca/notice/86967837</link>
+  <description>vk7hse's status on Thursday, 15-Dec-11 15:56:32 UTC</description>
+  <content:encoded>Anyone got any suggestions for getting to sleep?  Cause this little black duck is going to be a grumpy bastard later today!</content:encoded>
+  <dc:date>2011-12-15T15:56:32+00:00</dc:date>
+  <dc:creator>Scott Evans</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/60287"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/60287#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/60287-96-20110726101121.gif"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850099"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967835" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>branleb: &lt;$user1&gt; root zu sein ist langweilig #qotd #ymmd</title>
+  <link>http://identi.ca/notice/86967835</link>
+  <description>branleb's status on Thursday, 15-Dec-11 15:56:31 UTC</description>
+  <content:encoded>&amp;lt;$user1&amp;gt; root zu sein ist langweilig #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/qotd&quot; rel=&quot;tag&quot;&gt;qotd&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/ymmd&quot; rel=&quot;tag&quot;&gt;ymmd&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:56:31+00:00</dc:date>
+  <dc:creator>Florian Zumkeller-Quast</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/250972"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/250972#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/250972-96-20100916192043.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850097"></sioc:has_discussion>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/qotd#concept" ctag:label="qotd">
+    <foaf:page rdf:resource="http://identi.ca/tag/qotd"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/qotd/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/ymmd#concept" ctag:label="ymmd">
+    <foaf:page rdf:resource="http://identi.ca/tag/ymmd"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/ymmd/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967839" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>nunatak: @frlan Sowas z.B. http://is.gd/ZgAY1x EasyRGB Color calculator.</title>
+  <link>http://identi.ca/notice/86967839</link>
+  <description>nunatak's status on Thursday, 15-Dec-11 15:56:30 UTC</description>
+  <content:encoded>@&lt;span class=&quot;vcard&quot;&gt;&lt;a href=&quot;http://identi.ca/user/370395&quot; class=&quot;url&quot;&gt;&lt;span class=&quot;fn nickname mention&quot;&gt;frlan&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; Sowas z.B. &lt;a href=&quot;http://is.gd/ZgAY1x&quot; title=&quot;http://is.gd/ZgAY1x&quot; rel=&quot;nofollow external&quot;&gt;http://is.gd/ZgAY1x&lt;/a&gt; EasyRGB Color calculator.</content:encoded>
+  <dc:date>2011-12-15T15:56:30+00:00</dc:date>
+  <dc:creator>nunatak y nullmeridian</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/39417"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/39417#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="50.93333" geo:long="6.95" rdf:resource="http://sws.geonames.org/2886242/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/39417-96-20100612170150.gif"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:reply_of rdf:resource="http://identi.ca/notice/86967029"></sioc:reply_of>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86847710"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://is.gd/ZgAY1x"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967829" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>nathanmccullum17: http://on.fb.me/v0Qjdh http://on.fb.me/v5DsKN http://on.fb.me/sCONLU http://on.fb.me/rvqLx0 http://on.fb.me/rRcVHK #debian</title>
+  <link>http://identi.ca/notice/86967829</link>
+  <description>nathanmccullum17's status on Thursday, 15-Dec-11 15:56:19 UTC</description>
+  <content:encoded>&lt;a href=&quot;http://on.fb.me/v0Qjdh&quot; title=&quot;http://on.fb.me/v0Qjdh&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/v0Qjdh&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/v5DsKN&quot; title=&quot;http://on.fb.me/v5DsKN&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/v5DsKN&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/sCONLU&quot; title=&quot;http://on.fb.me/sCONLU&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/sCONLU&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/rvqLx0&quot; title=&quot;http://on.fb.me/rvqLx0&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/rvqLx0&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/rRcVHK&quot; title=&quot;http://on.fb.me/rRcVHK&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/rRcVHK&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/debian&quot; rel=&quot;tag&quot;&gt;debian&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:56:19+00:00</dc:date>
+  <dc:creator>nathanmccullum17</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/567984"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/567984#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=7947b6ab2899f4489c3760ac255ce6eb&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850091"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://on.fb.me/sCONLU"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/v0Qjdh"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/v5DsKN"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/rvqLx0"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/rRcVHK"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/debian#concept" ctag:label="debian">
+    <foaf:page rdf:resource="http://identi.ca/tag/debian"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/debian/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/bookmark/42afd20d-8c66-4d39-add1-af5aea017d84" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>dcrasch: &quot;PHP compiler for .NET | The PHP language compiler for .NET Framework&quot; http://ur1.ca/6pqye</title>
+  <link>http://identi.ca/notice/86967825</link>
+  <description>dcrasch's status on Thursday, 15-Dec-11 15:56:11 UTC</description>
+  <content:encoded>&lt;span class=&quot;xfolkentry&quot;&gt;&lt;a class=&quot;taggedlink&quot; href=&quot;http://www.php-compiler.net/&quot;&gt;PHP compiler for .NET | The PHP language compiler for .NET Framework&lt;/a&gt; &lt;span class=&quot;description&quot;&gt;&lt;/span&gt; &lt;span class=&quot;meta&quot;&gt;&lt;/span&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:56:11+00:00</dc:date>
+  <dc:creator>David Rasch</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/6111"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/6111#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/6111-96-20111004082312.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850087"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://www.php-compiler.net/"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967824" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>stefon: More's Law:  http://ur1.ca/6pqyd #comic #fun #phdcomics</title>
+  <link>http://identi.ca/notice/86967824</link>
+  <description>stefon's status on Thursday, 15-Dec-11 15:56:10 UTC</description>
+  <content:encoded>More's Law:  &lt;a href=&quot;http://ur1.ca/6pqyd&quot; title=&quot;http://www.phdcomics.com/comics.php?f=1456&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/6pqyd&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/comic&quot; rel=&quot;tag&quot;&gt;comic&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/fun&quot; rel=&quot;tag&quot;&gt;fun&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/phdcomics&quot; rel=&quot;tag&quot;&gt;phdcomics&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:56:10+00:00</dc:date>
+  <dc:creator> </dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/8838"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/8838#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/8838-96-20080704085811.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850086"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://www.phdcomics.com/comics.php?f=1456"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/comic#concept" ctag:label="comic">
+    <foaf:page rdf:resource="http://identi.ca/tag/comic"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/comic/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/fun#concept" ctag:label="fun">
+    <foaf:page rdf:resource="http://identi.ca/tag/fun"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/fun/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/phdcomics#concept" ctag:label="phdcomics">
+    <foaf:page rdf:resource="http://identi.ca/tag/phdcomics"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/phdcomics/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967818" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>dvdgmz: RT @uaav1: Retransmitiremos por Twitcam las charlas de las jornadas  #Dotherightthing ¡Mañana a partir de las10h30, aquí, en directo!</title>
+  <link>http://identi.ca/notice/86967818</link>
+  <description>dvdgmz's status on Thursday, 15-Dec-11 15:56:01 UTC</description>
+  <content:encoded>RT @uaav1: Retransmitiremos por Twitcam las charlas de las jornadas  #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/dotherightthing&quot; rel=&quot;tag&quot;&gt;Dotherightthing&lt;/a&gt;&lt;/span&gt; ¡Mañana a partir de las10h30, aquí, en directo!</content:encoded>
+  <dc:date>2011-12-15T15:56:01+00:00</dc:date>
+  <dc:creator>David Gómez</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/85694"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/85694#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/85694-96-20091020140401.jpeg"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850079"></sioc:has_discussion>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/dotherightthing#concept" ctag:label="dotherightthing">
+    <foaf:page rdf:resource="http://identi.ca/tag/dotherightthing"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/dotherightthing/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967817" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>shnoulle: RT @shnoulle http://ur1.ca/6pqya #trondheim #markus #vvillenave : la musique est excellente, autant que le dessin animé. #merci</title>
+  <link>http://identi.ca/notice/86967817</link>
+  <description>shnoulle's status on Thursday, 15-Dec-11 15:56:01 UTC</description>
+  <content:encoded>RT @&lt;span class=&quot;vcard&quot;&gt;&lt;a href=&quot;http://identi.ca/user/54255&quot; class=&quot;url&quot; title=&quot;ostatus.shnoulle.net&quot;&gt;&lt;span class=&quot;fn nickname mention&quot;&gt;shnoulle&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;a href=&quot;http://ur1.ca/6pqya&quot; title=&quot;http://youtu.be/Kk-_Jo7Nzhg&quot; class=&quot;attachment thumbnail&quot; id=&quot;attachment-62477577&quot; rel=&quot;nofollow external&quot;&gt;http://ur1.ca/6pqya&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/trondheim&quot; rel=&quot;tag&quot;&gt;trondheim&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/markus&quot; rel=&quot;tag&quot;&gt;markus&lt;/a&gt;&lt;/span&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/vvillenave&quot; rel=&quot;tag&quot;&gt;vvillenave&lt;/a&gt;&lt;/span&gt; : la musique est excellente, autant que le dessin animé. #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/merci&quot; rel=&quot;tag&quot;&gt;merci&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:56:01+00:00</dc:date>
+  <dc:creator>ostatus.shnoulle.net</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/54255"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/54255#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/54255-96-20100419160702.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850080"></sioc:has_discussion>
+  <enc:enclosure rdf:resource="http://www.youtube.com/watch?v=Kk-_Jo7Nzhg" dc:title="Markus" dc:date="2011-12-15T14:29:27+00:00" enc:type="text/html; charset=utf-8"></enc:enclosure>
+  <sioc:links_to rdf:resource="http://youtu.be/Kk-_Jo7Nzhg"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/markus#concept" ctag:label="markus">
+    <foaf:page rdf:resource="http://identi.ca/tag/markus"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/markus/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/merci#concept" ctag:label="merci">
+    <foaf:page rdf:resource="http://identi.ca/tag/merci"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/merci/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/trondheim#concept" ctag:label="trondheim">
+    <foaf:page rdf:resource="http://identi.ca/tag/trondheim"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/trondheim/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/vvillenave#concept" ctag:label="vvillenave">
+    <foaf:page rdf:resource="http://identi.ca/tag/vvillenave"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/vvillenave/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967814" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>sidomi: Facebook sebagai jejaring sejuta umat yang digunakan oleh hampir seluruh penduduk dunia, nampaknya tak akan dapat dinik http://ur1.ca/6pqy9</title>
+  <link>http://identi.ca/notice/86967814</link>
+  <description>sidomi's status on Thursday, 15-Dec-11 15:55:57 UTC</description>
+  <content:encoded>Facebook sebagai jejaring sejuta umat yang digunakan oleh hampir seluruh penduduk dunia, nampaknya tak akan dapat dinik&lt;a href=&quot;http://identi.ca/attachment/62482407&quot; class=&quot;attachment more&quot; title=&quot;Show more&quot;&gt;&amp;#8230;&lt;/a&gt;</content:encoded>
+  <dc:date>2011-12-15T15:55:57+00:00</dc:date>
+  <dc:creator>Sidomi News</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/434622"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/434622#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/434622-96-20110515153236.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850077"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967813" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>nochrichten: Noch 400 ziehen bei Demo für Erhalt des Internationale-Entwicklung-Studiums von Wissenschaftsministerium zu Uni Wien. #unibrennt</title>
+  <link>http://identi.ca/notice/86967813</link>
+  <description>nochrichten's status on Thursday, 15-Dec-11 15:55:57 UTC</description>
+  <content:encoded>Noch 400 ziehen bei Demo für Erhalt des Internationale-Entwicklung-Studiums von Wissenschaftsministerium zu Uni Wien. #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/unibrennt&quot; rel=&quot;tag&quot;&gt;unibrennt&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:55:57+00:00</dc:date>
+  <dc:creator>nochrichten.net</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/105891"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/105891#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/105891-96-20101112172848.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850076"></sioc:has_discussion>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/unibrennt#concept" ctag:label="unibrennt">
+    <foaf:page rdf:resource="http://identi.ca/tag/unibrennt"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/unibrennt/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967804" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>astropuebla: Falleció Borís !Chertok, el último protagonista de las 1as etapas de la !cosmonáutica !soviética http://bit.ly/uZrfYz !urss !Puebla !México</title>
+  <link>http://identi.ca/notice/86967804</link>
+  <description>astropuebla's status on Thursday, 15-Dec-11 15:55:43 UTC</description>
+  <content:encoded>Falleció Borís !Chertok, el último protagonista de las 1as etapas de la !cosmonáutica !soviética &lt;a href=&quot;http://bit.ly/uZrfYz&quot; title=&quot;http://bit.ly/uZrfYz&quot; rel=&quot;nofollow external&quot;&gt;http://bit.ly/uZrfYz&lt;/a&gt; !urss !Puebla !México</content:encoded>
+  <dc:date>2011-12-15T15:55:43+00:00</dc:date>
+  <dc:creator>Sociedad Astronómica de Puebla</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/327717"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/327717#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/327717-96-20101126163122.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850067"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://bit.ly/uZrfYz"></sioc:links_to>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967798" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>takumasakazaki47: http://on.fb.me/ut9fht http://on.fb.me/uV5rsW http://on.fb.me/sZvWWA http://on.fb.me/uFjeTj http://on.fb.me/uxiPsa #linux</title>
+  <link>http://identi.ca/notice/86967798</link>
+  <description>takumasakazaki47's status on Thursday, 15-Dec-11 15:55:41 UTC</description>
+  <content:encoded>&lt;a href=&quot;http://on.fb.me/ut9fht&quot; title=&quot;http://on.fb.me/ut9fht&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/ut9fht&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/uV5rsW&quot; title=&quot;http://on.fb.me/uV5rsW&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/uV5rsW&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/sZvWWA&quot; title=&quot;http://on.fb.me/sZvWWA&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/sZvWWA&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/uFjeTj&quot; title=&quot;http://on.fb.me/uFjeTj&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/uFjeTj&lt;/a&gt; &lt;a href=&quot;http://on.fb.me/uxiPsa&quot; title=&quot;http://on.fb.me/uxiPsa&quot; rel=&quot;nofollow external&quot;&gt;http://on.fb.me/uxiPsa&lt;/a&gt; #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/linux&quot; rel=&quot;tag&quot;&gt;linux&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:55:41+00:00</dc:date>
+  <dc:creator>takumasakazaki47</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/567989"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/567989#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f5cd98651f477f34fc8f25e0397b0b22&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850060"></sioc:has_discussion>
+  <sioc:links_to rdf:resource="http://on.fb.me/ut9fht"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/uV5rsW"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/sZvWWA"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/uFjeTj"></sioc:links_to>
+  <sioc:links_to rdf:resource="http://on.fb.me/uxiPsa"></sioc:links_to>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/linux#concept" ctag:label="linux">
+    <foaf:page rdf:resource="http://identi.ca/tag/linux"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/linux/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967797" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>imabug: hmm, math looks right, numbers look weird. i must be doing something wrong</title>
+  <link>http://identi.ca/notice/86967797</link>
+  <description>imabug's status on Thursday, 15-Dec-11 15:55:41 UTC</description>
+  <content:encoded>hmm, math looks right, numbers look weird. i must be doing something wrong</content:encoded>
+  <dc:date>2011-12-15T15:55:41+00:00</dc:date>
+  <dc:creator>Eugene Mah</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/63"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/63#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://avatar.identi.ca/63-96-20110226034846.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850061"></sioc:has_discussion>
+ </item>
+ <item rdf:about="http://identi.ca/notice/86967789" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>hannob: Welches Konzept steckt eigentlich dahinter wenn der gesamte S-Bahn-Verkehr von EINEM Stellwerk abhängt? #singlepointoffailure</title>
+  <link>http://identi.ca/notice/86967789</link>
+  <description>hannob's status on Thursday, 15-Dec-11 15:55:28 UTC</description>
+  <content:encoded>Welches Konzept steckt eigentlich dahinter wenn der gesamte S-Bahn-Verkehr von EINEM Stellwerk abhängt? #&lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://identi.ca/tag/singlepointoffailure&quot; rel=&quot;tag&quot;&gt;singlepointoffailure&lt;/a&gt;&lt;/span&gt;</content:encoded>
+  <dc:date>2011-12-15T15:55:28+00:00</dc:date>
+  <dc:creator>Hanno Boeck</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/98325"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/98325#acct"></sioc:has_creator>
+  <statusnet:origin geo:lat="52.52437" geo:long="13.41053" rdf:resource="http://sws.geonames.org/2950159/"></statusnet:origin>
+  <statusnet:postIcon rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=b56f02655a9de3d7197ee0518f76f814&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/86850052"></sioc:has_discussion>
+  <ctag:tagged>
+   <ctag:Tag rdf:about="http://identi.ca/tag/singlepointoffailure#concept" ctag:label="singlepointoffailure">
+    <foaf:page rdf:resource="http://identi.ca/tag/singlepointoffailure"></foaf:page>
+    <rdfs:seeAlso rdf:resource="http://identi.ca/tag/singlepointoffailure/rss"></rdfs:seeAlso>
+   </ctag:Tag>
+  </ctag:tagged>
+ </item>
+ <foaf:Agent rdf:about="http://identi.ca/user/567992">
+  <foaf:nick>shauntait29</foaf:nick>
+  <foaf:name>shauntait29</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/567992#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f93007771c9efb0b12f4e43ab1adef75&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/449079">
+  <foaf:nick>ingeborgmaier</foaf:nick>
+  <foaf:name>Ingeborg Maier</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/449079#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/449079-96-20110531160802.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/496572">
+  <foaf:nick>takeshitakenji</foaf:nick>
+  <foaf:name>Neil Hodges</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/496572#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/496572-96-20110729190411.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/91445">
+  <foaf:nick>curtmaly</foaf:nick>
+  <foaf:name>Curt Maly</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/91445#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/91445-96-20091030143704.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/584731">
+  <foaf:nick>review3dhdtv</foaf:nick>
+  <foaf:name>Simon Miller</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/584731#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=81f7a8e08ff12b6519b1787c13468031&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/35156">
+  <foaf:nick>lamejokes</foaf:nick>
+  <foaf:name>Lame Jokes</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/35156#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=9c30fd7526ff5786a90ed81fb430b247&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/567989">
+  <foaf:nick>takumasakazaki47</foaf:nick>
+  <foaf:name>takumasakazaki47</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/567989#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f5cd98651f477f34fc8f25e0397b0b22&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/59333">
+  <foaf:nick>randomcolour</foaf:nick>
+  <foaf:name>Random Colour</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/59333#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/59333-96-20091224105255.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/52442">
+  <foaf:nick>cybernetic</foaf:nick>
+  <foaf:name>The Cybernetic Artwork Nobody Wrote</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/52442#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/52442-96-20091216231045.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/279927">
+  <foaf:nick>kanalratte</foaf:nick>
+  <foaf:name>Kanal Ratte 104,5 MHz</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/279927#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/279927-96-20101012111547.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/263752">
+  <foaf:nick>ejdecena</foaf:nick>
+  <foaf:name>Edgard Decena</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/263752#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/263752-96-20100923230707.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/64803">
+  <foaf:nick>themadman</foaf:nick>
+  <foaf:name>Marcus Harrison</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/64803#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/64803-96-20111113143647.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/66899">
+  <foaf:nick>roninmcr</foaf:nick>
+  <foaf:name>Jose Vicente Fernandez Ferrer</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/66899#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/66899-96-20110511191125.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/351873">
+  <foaf:nick>usb333</foaf:nick>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/351873#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/351873-96-20110816154329.gif"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/485072">
+  <foaf:nick>ananonyma</foaf:nick>
+  <foaf:name>Anonyma</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/485072#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/485072-96-20111212172546.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/390858">
+  <foaf:nick>pielectricsuperiorservices</foaf:nick>
+  <foaf:name>Dina Smith</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/390858#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=d2c0d7fe4010bed0017a12a3e06279ae&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/532084">
+  <foaf:nick>acampadas</foaf:nick>
+  <foaf:name>Acampadas</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/532084#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=d4cf22c2914328a55fb9f021618d1bcb&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/73486">
+  <foaf:nick>dgaspary</foaf:nick>
+  <foaf:name>Daniel Gaspary</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/73486#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/73486-96-20090902234641.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/35127">
+  <foaf:nick>cwebber</foaf:nick>
+  <foaf:name>Christopher Allan Webber</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/35127#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/35127-96-20100402032016.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/8815">
+  <foaf:nick>reinouts</foaf:nick>
+  <foaf:name>Reinout van Schouwen</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/8815#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/8815-96-20091211211639.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/59135">
+  <foaf:nick>plungerman</foaf:nick>
+  <foaf:name>Bender Rodríguez</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/59135#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/59135-96-20101103124752.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/90915">
+  <foaf:nick>psy</foaf:nick>
+  <foaf:name>lord epsylon</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/90915#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/90915-96-20091028143845.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/584238">
+  <foaf:nick>i7dtube</foaf:nick>
+  <foaf:name>fares hussein</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/584238#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=f319d78e82c86403acbd4f94cbfa560a&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/12816">
+  <foaf:nick>gabrielsaldana</foaf:nick>
+  <foaf:name>Gabriel Saldana</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/12816#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/12816-96-20090124024009.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/201392">
+  <foaf:nick>joseserralde</foaf:nick>
+  <foaf:name>Jose Serralde</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/201392#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/201392-96-20110424104458.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/130869">
+  <foaf:nick>debiansick</foaf:nick>
+  <foaf:name>Franklin G. Mendoza</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/130869#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/130869-96-20110830200402.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/9669">
+  <foaf:nick>dclauzel</foaf:nick>
+  <foaf:name>Damien Clauzel</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/9669#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/9669-96-20110109234602.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/71814">
+  <foaf:nick>sasy360</foaf:nick>
+  <foaf:name>Sasan</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/71814#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/71814-96-20111115203809.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/478703">
+  <foaf:nick>hannahkaiser</foaf:nick>
+  <foaf:name>Hannah Kaiser</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/478703#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/478703-96-20110702164116.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/98507">
+  <foaf:nick>agustinfontaine</foaf:nick>
+  <foaf:name>Agustin Fontaine</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/98507#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/98507-96-20091126163340.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/45795">
+  <foaf:nick>hellocatfood</foaf:nick>
+  <foaf:name>Antonio Roberts</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/45795#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/45795-96-20101118004208.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/8838">
+  <foaf:nick>stefon</foaf:nick>
+  <foaf:name> </foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/8838#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/8838-96-20080704085811.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/60287">
+  <foaf:nick>vk7hse</foaf:nick>
+  <foaf:name>Scott Evans</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/60287#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/60287-96-20110726101121.gif"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/250972">
+  <foaf:nick>branleb</foaf:nick>
+  <foaf:name>Florian Zumkeller-Quast</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/250972#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/250972-96-20100916192043.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/39417">
+  <foaf:nick>nunatak</foaf:nick>
+  <foaf:name>nunatak y nullmeridian</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/39417#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/39417-96-20100612170150.gif"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/567984">
+  <foaf:nick>nathanmccullum17</foaf:nick>
+  <foaf:name>nathanmccullum17</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/567984#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=7947b6ab2899f4489c3760ac255ce6eb&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/6111">
+  <foaf:nick>dcrasch</foaf:nick>
+  <foaf:name>David Rasch</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/6111#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/6111-96-20111004082312.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/85694">
+  <foaf:nick>dvdgmz</foaf:nick>
+  <foaf:name>David Gómez</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/85694#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/85694-96-20091020140401.jpeg"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/54255">
+  <foaf:nick>shnoulle</foaf:nick>
+  <foaf:name>ostatus.shnoulle.net</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/54255#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/54255-96-20100419160702.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/434622">
+  <foaf:nick>sidomi</foaf:nick>
+  <foaf:name>Sidomi News</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/434622#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/434622-96-20110515153236.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/105891">
+  <foaf:nick>nochrichten</foaf:nick>
+  <foaf:name>nochrichten.net</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/105891#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/105891-96-20101112172848.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/327717">
+  <foaf:nick>astropuebla</foaf:nick>
+  <foaf:name>Sociedad Astronómica de Puebla</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/327717#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/327717-96-20101126163122.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/63">
+  <foaf:nick>imabug</foaf:nick>
+  <foaf:name>Eugene Mah</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/63#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://avatar.identi.ca/63-96-20110226034846.png"></foaf:depiction>
+ </foaf:Agent>
+ <foaf:Agent rdf:about="http://identi.ca/user/98325">
+  <foaf:nick>hannob</foaf:nick>
+  <foaf:name>Hanno Boeck</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/98325#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="https://secure.gravatar.com/avatar.php?gravatar_id=b56f02655a9de3d7197ee0518f76f814&amp;default=http%3A%2F%2Ftheme.identi.ca%2F1.0.1%2Fneo%2Fdefault-avatar-profile.png&amp;size=96"></foaf:depiction>
+ </foaf:Agent>
+</rdf:RDF>

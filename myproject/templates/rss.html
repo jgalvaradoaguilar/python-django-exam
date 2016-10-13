@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+
+<channel>
+
+	<title>Línea temporal privada de MiResumen2 para el usuario: {{usuario}}</title>
+	<link>http://localhost:1234/feed</link>
+	<image>
+		<link>http://localhost:1234/</link>
+		<title>Línea temporal privada de MiResumen2</title>
+		<url>http://localhost:1234/images/logo1.png</url>
+	</image>
+	<description>¡Las 10 micronotas más recientes seleccionadas por el usuario {{usuario}}!</description>
+	<language>es-ES</language>
+	<ttl>40</ttl>
+
+	{% for micronota in micronotas %}
+	<item>
+		<title>{{micronota.micronotero}}: {{micronota.contenido}}</title>
+		<description>{{micronota.contenido}}</description>
+   		<pubDate>{{micronota.fecha_publicacion}}</pubDate>
+   		<guid>{{micronota.url}}</guid>
+   		<link>{{micronota.url}}</link>
+		<category>General</category>
+	</item>
+	{% endfor %}
+
+
+</channel>
+</rss>

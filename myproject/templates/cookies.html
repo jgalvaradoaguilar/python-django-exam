@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+	<ul>
+	{% for visitante in visitantes %}
+		<li>
+		Visitante: {{ visitante.nombre }}
+		<br>
+		csrftoken: {{ visitante.name }}
+		<br>
+		sessionid: {{ visitante.value }}	
+		<br><br><br>
+		</li>
+	{% endfor %}
+	</ul>
+
+{% endblock %}

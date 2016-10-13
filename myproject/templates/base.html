@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Design by Free CSS Templates
+	http://www.freecsstemplates.org
+	Released for free under a Creative Commons Attribution 2.5 License
+
+	Name       : MiResumen2     
+	Description: A two-column, fixed-width design with dark color scheme.
+	Version    : 1.0
+	Released   : 20101222
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<title>MiResumen2 Application</title>
+	<!-- link href="{{ css }}" rel="stylesheet" type="text/css" media="screen" / -->
+	<style type="text/css">{{ css }}</style>
+</head>
+
+<body>
+
+	<!-- start header -->
+	<div id="header">
+		<div id="logo">
+			<img src="/images/logo1.png" alt="Logo de MiResumen2" border="2" width="425" height="130"/>
+			<p>Las noticias que te interesan a un click de tu alcance</p>
+		</div>
+		<br><br><br><br><br><br><br><br><br><br><br><br>
+		<!-- start menu -->
+		<div id="menu">
+			<a href="/" title="Home">Home</a>  <a href="/update" title="Update">Actualizar</a>  <a href="/selected" title="Selected">Mi selecci&oacute;n</a>  <a href="/feed" title="FeedRSS">Feed RSS</a>  <a href="/conf" title="Configuration">Editar nombre</a>  <a href="/skin" title="Skin">Editar CSS</a>  <a href="/cookies"  	title="Cookies">Ver cookies</a>
+			<br><br><br>
+			<p>Hola {{usuario}}, c&oacute;mo est&aacute;s?   :-)</p>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		</div>
+		<!-- end menu -->
+	</div>
+	<!-- end header -->
+
+	<!-- begin #page -->
+	<div id="page">
+		<!-- begin #content -->
+		<div id="content">
+			<!--p class="mensaje"> Hola {{usuario}}, c&oacute;mo est&aacute;s?   :-) </p--> 
+			{% block content %}{% endblock %}
+		</div>
+		<!-- end #content -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end #page -->
+
+	<div id="footer">
+		<p class="copyright">Copyright (c) 2011 MiResumen2. All rights reserved. Design by <a href="http://www.freecsstemplates.org/"> CSS Templates</a>.</p>
+		<p class="copyright">Modified by Jos&eacute; Gabriel Alvarado Aguilar. S.A.T, Rey Juan Carlos University (Madrid-Spain)</p>
+	</div>
+	<!-- end #footer -->
+
+</body>
+</html>

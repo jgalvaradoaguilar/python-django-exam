@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+	<form action="/puntuar/{{ url_micronota }}" method="post">
+		<p class="mensaje"> Aqu&iacute; puede puntuar la micronota seleccionada. Esta puntuaci&oacute;n no se podr&aacute; cambiar.</p>
+		<br>
+		<INPUT onclick="this.form.submit()" type=radio value=0 name=puntaje><FONT color="#162EAF">0</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=1 name=puntaje><FONT color="#162EAF">1</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=2 name=puntaje><FONT color="#322899">2</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=3 name=puntaje><FONT color="#4E2284">3</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=4 name=puntaje><FONT color="#6A1D6F">4</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=5 name=puntaje><FONT color="#871759">5</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=6 name=puntaje><FONT color="#A21245">6</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=7 name=puntaje><FONT color="#BF0C2F">7</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=8 name=puntaje><FONT color="#DB061A">8</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=9 name=puntaje><FONT color="#EB0101">9</FONT>
+		<INPUT onclick="this.form.submit()" type=radio value=10 name=puntaje><FONT color="#FF0000">10</FONT>
+	</form>
+	<br><br>
+	
+{% endblock %}
+

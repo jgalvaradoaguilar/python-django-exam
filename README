@@ -1,0 +1,27 @@
+Servicios y Aplicaciones Telemáticas.
+
+José Gabriel Alvarado Aguilar.
+jgaa
+
+PARTE OBLIGATORIA.
+En la parte obligatoria, uso siempre la hora española, puesto que identi.ca me da la hora en
+UTC, por lo que le añado 2 horas para que me cuadre con lo devuelto por datetime.now() cuando
+selecciono una micronota, el apartado de Cookies está probado con "Cookie Manager" en Firefox. 
+Los css se guardan en la base de datos "Visitante" para cada usuario, y el rss generado es 
+versión 2.0 y se incluye el logo del sitio.
+Las plantillas están jerarquizadas. No puede haber dos visitantes con el mismo nombre, aunque si
+puede existir muchos visitantes con el nombre "invitado" por defecto, por tanto, siempre el
+visitante puede volver a usar el nombre genérico "invitado".
+
+PARTES OPCIONALES.
+He implementado la votación de micronotas siguiendo lo descrito en la descripción. Una
+vez que el vistante ha votado una micronota se le muestra la puntuación que le ha otorgado a
+dicha micronota, mientras que si aún no la ha puntuado se le muestra un botón donde puede
+hacerlo. Se incluye también la media de las puntuaciones.
+También se incluye el soporte para avatares de los micronoteros, que se muestra junto con
+cada micronota, ya sea en el recurso /nnn, /selected o /update.
+
+		**** FIN ****
+
+Gracias, saludos.
+Gabriel.

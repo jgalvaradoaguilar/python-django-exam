@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+	{% if nombre_repetido %}
+		<p class="error"> El nombre escogido ya existe. Por favor, elija otro.</p>
+		<br>
+	{% endif %}
+
+	{% if mismo_nombre %}
+		<p class="error"> Ha escogido su mismo nombre!!!</p>
+		<br>
+	{% endif %}
+
+	{% if nombre_cambiado %}
+		<form action="/" method="get">
+			<p class="mensaje"> Su nombre ha sido cambiado exitosamente.</p>
+			<br>
+			<input type="submit" value="Ir a la p&aacute;gina principal">
+		</form>
+	{% else %}
+		<form action="/conf" method="post">
+			<p class="mensaje"> Aqu&iacute; puede cambiar su nombre.</p>
+        	<p class="conf">Elija un nombre: <input type="text" name="nombre"></p>
+			<br>
+        	<input type="submit" value="Cambiar nombre">
+		</form>
+	{% endif %}
+		<br>
+	
+{% endblock %}
+
